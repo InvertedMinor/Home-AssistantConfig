@@ -106,7 +106,7 @@
   <tr>
     <td>Motion</td>
     <td>Measure</td>
-    <td>B  </td>
+    <td>YobangSecurity EV152 PIR  </td>
     <td>RF: See Hassio Automation</td>
   </tr>   
 </table>
