@@ -127,32 +127,30 @@
 
 Follow this great guide: https://jamesachambers.com/raspberry-pi-4-usb-boot-config-guide-for-ssd-flash-drives/
 
-<code>
+<pre><code>
 sudo apt-get install apparmor-utils apt-transport-https avahi-daemon ca-certificates curl dbus jq network-manager socat software-properties-common <br>
 curl -sL "https://raw.githubusercontent.com/home-assistant/hassio-installer/master/hassio_install.sh" >> hassio_install.sh
 sudo bash hassio_install.sh -m raspberrypi4<br>
-</code>
+</code></pre>
 
 If you have tries other ways and no longer have a clean RPI, make sure to remove all Hassio stuff first. I did the following to clean my own mesh:
-<pre>
-<code>
+<pre><code>
 sudo systemctl stop hassio-supervisor.service<br>
 sudo systemctl disable hassio-supervisor.service<br>
 sudo systemctl disable hassio-apparmor.service<br>
 sudo systemctl daemon-reload<br>
-</code>
-</pre>
-<code>
+</code></pre>
+<pre><code>
 sudo su<br>
 cd /etc/systemd/system<br>
 rm hassio-*<br>
-</code>
-<code>
+</code></pre>
+<pre><code>
 docker stop $(docker ps -q)<br>
 docker rm $(docker ps -qa)<br>
 docker rmi -f $(docker images -q)<br>
 docker system prune<br>
-</code>
+</code></pre>
 
 Had to a few “rinse, repeats” of the three commands above until “docker stop $(docker ps -q)” came up blank.
 <code>
