@@ -133,6 +133,7 @@ curl -sL "https://raw.githubusercontent.com/home-assistant/hassio-installer/mast
 sudo bash hassio_install.sh -m raspberrypi4<br>
 </code></pre>
 
+<h2> Clean up and remove old Hassio stuff</h2>
 If you have tries other ways and no longer have a clean RPI, make sure to remove all Hassio stuff first. I did the following to clean my own mesh:
 <pre><code>
 sudo systemctl stop hassio-supervisor.service<br>
