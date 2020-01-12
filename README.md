@@ -26,15 +26,15 @@
     <td>See Hassio Automation</td>
   </tr>
   <tr>
-    <td>Switches 1#>
+    <td>Switches 1# >
     <td>Open & Close at sunset/sunrise</td>
     <td>Sonoff basic</td>
     <td>Tasmota</td>
   </tr>
   <tr>
-    <td>Lights 2#>
+    <td>Lights 2# >
     <td>Open & Close at sunset/sunrise</td>
-    <td>FIBARO FGS213, FIBARO FGS223</td>
+    <td>FIBARO FGS213 & FGS223</td>
     <td>See Hassio Automation</td>
   </tr>    
 </table>
