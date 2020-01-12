@@ -102,7 +102,13 @@
     <td>Measure</td>
     <td>Baldr https://bit.ly/39YSQFn</td>
     <td>RF: See Hassio Automation</td>
-  </tr>    
+  </tr> 
+  <tr>
+    <td>Motion</td>
+    <td>Measure</td>
+    <td>B  </td>
+    <td>RF: See Hassio Automation</td>
+  </tr>   
 </table>
 
 
