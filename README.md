@@ -14,6 +14,12 @@
     <th>Software</th>
   </tr>
   <tr>
+    <td>RPI-4</td>
+    <td>Hassio Engine</td>
+    <td>Raspberry Pi 4, M.2 SATA SSD expansion board, 128 GB SSD</td>
+    <td>See Hassio</td>
+  </tr>
+  <tr>
     <td>Z-Wave</td>
     <td>Input-Output</td>
     <td>Z-Stick Gen5 https://bit.ly/30cAuwc</td>
