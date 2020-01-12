@@ -134,7 +134,7 @@ curl -sL get.docker.com|sh
 sudo apt-get install apparmor-utils apt-transport-https avahi-daemon ca-certificates curl dbus jq network-manager socat software-properties-common <br>
 curl -sL "https://raw.githubusercontent.com/home-assistant/hassio-installer/master/hassio_install.sh" >> hassio_install.sh
 sudo bash hassio_install.sh -m raspberrypi4<br>
-<pre><code>
+</pre></code>
 
 <h2> Clean up and remove old Hassio stuff</h2>
 If you have tried other ways and no longer have a clean RPI, make sure to remove all Hassio stuff first. I did the following to clean up my own mesh:
