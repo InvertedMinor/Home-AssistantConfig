@@ -38,6 +38,12 @@
     <td>See Hassio</td>
   </tr>  
   <tr>
+    <td>DSMR</td>
+    <td>Energy & Water</td>
+    <td>P1 Monitor https://www.ztatz.nl</td>
+    <td>See Hassio</td>
+  </tr>  
+  <tr>
     <td>Roller & Venetian blinds #1</td>
     <td>Open & Close at sunset/sunrise</td>
     <td>DIY: Standard rollerbinds fitted with 12V DC motor, Wemos D1 mini, L298N.</td>
