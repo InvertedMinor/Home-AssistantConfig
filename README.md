@@ -22,7 +22,7 @@
   <tr>
     <td>Venetian blinds #2</td>
     <td>Open & Close at sunset/sunrise</td>
-    <td>Geiger motor: https://bit.ly/2RcREpt, FIBARO System FGRM222 Roller Shutter Controller: https://manuals.fibaro.com/roller-shutter-2/</td>
+    <td>Geiger motor: https://bit.ly/2RcREpt, FIBARO System FGRM222 Roller Shutter Controller: https://bit.ly/2QMmNkp</td>
     <td>See Hassio Automation</td>
   </tr>
   <tr>
