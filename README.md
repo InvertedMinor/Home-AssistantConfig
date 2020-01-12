@@ -17,7 +17,7 @@
     <td>Roller & Venetian blinds #1</td>
     <td>Open & Close at sunset/sunrise</td>
     <td>DIY: Standard rollerbinds fitted with 12V DC motor, Wemos D1 mini, L298N.</td>
-    <td>ESPHome, Bases: https://gist.github.com/Snipercaine/d568075d7fe9585438f2b602a3d18436</td>
+    <td>ESPHome, Bases: https://bit.ly/36NWvnp</td>
   </tr>
   <tr>
     <td>Venetian blinds #2</td>
