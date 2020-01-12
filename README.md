@@ -125,6 +125,36 @@
 
 <b>Hassio install Raspberry Pi 4 SSD</b>
 
+Follow this great guide: https://jamesachambers.com/raspberry-pi-4-usb-boot-config-guide-for-ssd-flash-drives/
+
+sudo apt-get install apparmor-utils apt-transport-https avahi-daemon ca-certificates curl dbus jq network-manager socat software-properties-common 
+curl -sL "https://raw.githubusercontent.com/home-assistant/hassio-installer/master/hassio_install.sh" >> hassio_install.sh
+sudo bash hassio_install.sh -m raspberrypi4’ 
+
+If you have tries other ways and no longer have a clean RPI, make sure to remove all Hassio stuff first. I did the following to clean my own mesh:
+
+sudo systemctl stop hassio-supervisor.service
+sudo systemctl disable hassio-supervisor.service
+sudo systemctl disable hassio-apparmor.service
+sudo systemctl daemon-reload
+
+sudo su
+cd /etc/systemd/system
+rm hassio-*
+
+docker stop $(docker ps -q)
+docker rm $(docker ps -qa)
+docker rmi -f $(docker images -q)
+docker system prune
+
+Had to a few “rinse, repeats” of the three commands above until “docker stop $(docker ps -q)” came up blank.
+
+sudo rm -rf /usr/share/hassio/
+
+sudo rm /etc/systemd/system/home-assistant@YOUR_USER.service
+
+No you shoud be able to start installing Hassio as described above
+
 
 
 
