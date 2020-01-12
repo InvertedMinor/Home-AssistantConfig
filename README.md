@@ -38,6 +38,12 @@
     <td>Tasmota: https://bit.ly/2FFV4eP, https://bit.ly/38337hV</td>
   </tr>
   <tr>
+    <td>Switches #2</td>
+    <td>Open & Close at sunset/sunrise</td>
+    <td>Neo Coolcam</td>
+    <td>Z-Wave</td>
+  </tr>  
+  <tr>
     <td>Lights #2</td>
     <td>Open & Close at sunset/sunrise</td>
     <td>FIBARO FGS213 & FGS223</td>
