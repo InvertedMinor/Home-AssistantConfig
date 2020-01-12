@@ -22,7 +22,7 @@
   <tr>
     <td>WiFi</td>
     <td>Input-Output</td>
-    <td>Unify</td>
+    <td>Unify https://bit.ly/37X7OtD</td>
     <td>See Hassio</td>
   </tr>
   <tr>
@@ -34,7 +34,7 @@
   <tr>
     <td>Zigbee</td>
     <td>Input-Output</td>
-    <td>Zigbee2MQTT: https://bit.ly/3806hmS</td>
+    <td>Zigbee2MQTT https://bit.ly/3806hmS</td>
     <td>See Hassio</td>
   </tr>  
   <tr>
