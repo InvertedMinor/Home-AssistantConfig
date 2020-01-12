@@ -35,7 +35,7 @@
     <td>Switches #1</td>
     <td>Open & Close at sunset/sunrise</td>
     <td>Sonoff basic</td>
-    <td>Tasmota https://github.com/arendst/Tasmota</td>
+    <td>Tasmota https://bit.ly/2FFV4eP</td>
   </tr>
   <tr>
     <td>Lights #2</td>
