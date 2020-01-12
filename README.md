@@ -1,6 +1,6 @@
 # Home-AssistantConfig
 
-<h1>Builiding Blocks</h1>
+<h2>Building Blocks</h2>
 
 <table style="width:500px">
     <col width="50px" />
@@ -123,7 +123,7 @@
   </tr>   
 </table>
 
-<h1>Hassio install Raspberry Pi 4 SSD</h1>
+<h2>Hassio install Raspberry Pi 4 SSD</h2>
 
 Follow this great guide: https://jamesachambers.com/raspberry-pi-4-usb-boot-config-guide-for-ssd-flash-drives/
 
