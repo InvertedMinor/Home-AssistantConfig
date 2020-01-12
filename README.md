@@ -88,7 +88,7 @@
   <tr>
     <td>Lights #1</td>
     <td>On & Off at sunset/sunrise</td>
-    <td>FIBARO FGS213 & FGS223</td>
+    <td>FIBARO FGS213 & FGS223 https://bit.ly/3a2D4tf</td>
     <td>Z-Wave: See Hassio Automation</td>
   </tr>
   <tr>
