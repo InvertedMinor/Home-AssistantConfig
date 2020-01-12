@@ -44,10 +44,22 @@
     <td>Z-Wave See Hassio Automation</td>
   </tr>  
   <tr>
-    <td>Lights #2</td>
-    <td>Open & Close at sunset/sunrise</td>
+    <td>Switches #3</td>
+    <td>On & Off at sunset/sunrise</td>
+    <td>DIY PVTO </td>
+    <td>Zigbee: See Hassio Automation</td>
+  </tr>
+  <tr>
+    <td>Lights #1</td>
+    <td>On & Off at sunset/sunrise</td>
     <td>FIBARO FGS213 & FGS223</td>
     <td>Z-Wave: See Hassio Automation</td>
+  </tr>
+  <tr>
+    <td>Lights #2</td>
+    <td>On & Off at sunset/sunrise</td>
+    <td>Ikea Tradfri Led</td>
+    <td>Zigbee: See Hassio Automation</td>
   </tr>
   <tr>
     <td>Temperatures</td>
