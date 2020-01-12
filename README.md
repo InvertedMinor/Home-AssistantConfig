@@ -114,8 +114,16 @@
     <td>Measure</td>
     <td>YobangSecurity EV152 PIR  </td>
     <td>RF: See Hassio Automation</td>
+  </tr>
+  <tr>
+    <td>Landroid</td>
+    <td>Cutting Grass</td>
+    <td>WG794</td>
+    <td>https://github.com/virtualzone/landroid-bridge</td>
   </tr>   
 </table>
+
+<b>Hassio install Raspberry Pi 4 SSD</b>
 
 
 
