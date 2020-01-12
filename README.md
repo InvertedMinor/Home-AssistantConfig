@@ -70,7 +70,7 @@
   <tr>
     <td>Switches #2</td>
     <td>On & Off at sunset/sunrise</td>
-    <td>Neo Coolcam</td>
+    <td>Neo Coolcam Power Plug https://bit.ly/2t9QXVT</td>
     <td>Z-Wave See Hassio Automation</td>
   </tr>  
   <tr>
