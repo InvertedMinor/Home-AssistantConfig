@@ -2,7 +2,7 @@
 
 <b>Builiding Blocks</b>
 
-<table class="fixed">
+<table style="width:960px">
     <col width="50px" />
     <col width="50px" />
     <col width="200px" />
