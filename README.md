@@ -128,29 +128,29 @@
 Follow this great guide: https://jamesachambers.com/raspberry-pi-4-usb-boot-config-guide-for-ssd-flash-drives/
 
 <code>
-sudo apt-get install apparmor-utils apt-transport-https avahi-daemon ca-certificates curl dbus jq network-manager socat software-properties-common 
+sudo apt-get install apparmor-utils apt-transport-https avahi-daemon ca-certificates curl dbus jq network-manager socat software-properties-common <br>
 curl -sL "https://raw.githubusercontent.com/home-assistant/hassio-installer/master/hassio_install.sh" >> hassio_install.sh
-sudo bash hassio_install.sh -m raspberrypi4’ 
+sudo bash hassio_install.sh -m raspberrypi4<br>
 </code>
 
 If you have tries other ways and no longer have a clean RPI, make sure to remove all Hassio stuff first. I did the following to clean my own mesh:
 
 <code>
-sudo systemctl stop hassio-supervisor.service
-sudo systemctl disable hassio-supervisor.service
-sudo systemctl disable hassio-apparmor.service
-sudo systemctl daemon-reload
+sudo systemctl stop hassio-supervisor.service<br>
+sudo systemctl disable hassio-supervisor.service<br>
+sudo systemctl disable hassio-apparmor.service<br>
+sudo systemctl daemon-reload<br>
 </code>
 <code>
-sudo su
-cd /etc/systemd/system
-rm hassio-*
+sudo su<br>
+cd /etc/systemd/system<br>
+rm hassio-*<br>
 </code>
 <code>
-docker stop $(docker ps -q)
-docker rm $(docker ps -qa)
-docker rmi -f $(docker images -q)
-docker system prune
+docker stop $(docker ps -q)<br>
+docker rm $(docker ps -qa)<br>
+docker rmi -f $(docker images -q)<br>
+docker system prune<br>
 </code>
 
 Had to a few “rinse, repeats” of the three commands above until “docker stop $(docker ps -q)” came up blank.
