@@ -42,6 +42,12 @@
     <td>Open & Close at sunset/sunrise</td>
     <td>FIBARO FGS213 & FGS223</td>
     <td>See Hassio Automation</td>
+  </tr>
+  <tr>
+    <td>Temperatures</td>
+    <td>Measure</td>
+    <td>Baldr https://bit.ly/39YSQFn</td>
+    <td>See Hassio Automation</td>
   </tr>    
 </table>
 
