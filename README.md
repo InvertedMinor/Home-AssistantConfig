@@ -129,7 +129,7 @@ Follow this great guide: https://jamesachambers.com/raspberry-pi-4-usb-boot-conf
 Install docker
 <pre><code>
 curl -sL get.docker.com|sh
-<pre><code>
+</pre></code>
 <pre><code>
 sudo apt-get install apparmor-utils apt-transport-https avahi-daemon ca-certificates curl dbus jq network-manager socat software-properties-common <br>
 curl -sL "https://raw.githubusercontent.com/home-assistant/hassio-installer/master/hassio_install.sh" >> hassio_install.sh
