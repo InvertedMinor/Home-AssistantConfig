@@ -14,7 +14,7 @@
     <th>Software</th>
   </tr>
   <tr>
-    <td>Roller & Venetian blinds</td>
+    <td>Roller & Venetian blinds #1</td>
     <td>Open & Close at sunset/sunrise</td>
     <td>DIY: Standard rollerbinds fitted with 12V DC motor, Wemos D1 mini, L298N.</td>
     <td>ESPHome, Bases: https://gist.github.com/Snipercaine/d568075d7fe9585438f2b602a3d18436</td>
@@ -26,13 +26,13 @@
     <td>See Hassio Automation</td>
   </tr>
   <tr>
-    <td>Switches 1# >
+    <td>Switches #1</td>
     <td>Open & Close at sunset/sunrise</td>
     <td>Sonoff basic</td>
     <td>Tasmota</td>
   </tr>
   <tr>
-    <td>Lights 2# >
+    <td>Lights #2</td>
     <td>Open & Close at sunset/sunrise</td>
     <td>FIBARO FGS213 & FGS223</td>
     <td>See Hassio Automation</td>
