@@ -153,13 +153,13 @@ docker system prune<br>
 </code></pre>
 
 Had to a few “rinse, repeats” of the three commands above until “docker stop $(docker ps -q)” came up blank.
-<code>
+<pre><code>
 sudo rm -rf /usr/share/hassio/
-</code>
+</code></pre>
 
-<code>
+<pre><code>
 sudo rm /etc/systemd/system/home-assistant@YOUR_USER.service
-</code>
+</code></pre>
 Now you shoud be able to start installing Hassio as described above
 
 
