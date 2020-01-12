@@ -22,7 +22,7 @@
   <tr>
     <td>Venetian blinds #2</td>
     <td>Open & Close at sunset/sunrise</td>
-    <td>Geiger motor: https://bit.ly/2RcREpt, FIBARO System FGRM222 Roller Shutter Controller: https://bit.ly/2QMmNkp</td>
+    <td>Geiger motor: https://bit.ly/2RcREpt, FIBARO FGRM222 Roller Shutter Controller: https://bit.ly/2QMmNkp</td>
     <td>See Hassio Automation</td>
   </tr>
   <tr>
@@ -35,7 +35,7 @@
     <td>Switches #1</td>
     <td>Open & Close at sunset/sunrise</td>
     <td>Sonoff basic</td>
-    <td>Tasmota https://bit.ly/2FFV4eP</td>
+    <td>Tasmota: https://bit.ly/2FFV4eP, https://bit.ly/38337hV</td>
   </tr>
   <tr>
     <td>Lights #2</td>
