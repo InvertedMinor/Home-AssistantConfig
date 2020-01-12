@@ -25,6 +25,18 @@
     <td>Geiger motor: https://www.geiger.de/fileadmin/user_upload/documents/GEIGER_E_PDB_GJ56_100W1516_EN.pdf, FIBARO System FGRM222 Roller Shutter Controller: https://manuals.fibaro.com/roller-shutter-2/</td>
     <td>See Hassio Automation</td>
   </tr>
+  <tr>
+    <td>Switches 1#>
+    <td>Open & Close at sunset/sunrise</td>
+    <td>Sonoff basic</td>
+    <td>Tasmota</td>
+  </tr>
+  <tr>
+    <td>Lights 2#>
+    <td>Open & Close at sunset/sunrise</td>
+    <td>FIBARO FGS213, FIBARO FGS223</td>
+    <td>See Hassio Automation</td>
+  </tr>    
 </table>
 
 
