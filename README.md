@@ -14,6 +14,30 @@
     <th>Software</th>
   </tr>
   <tr>
+    <td>Z-Wave</td>
+    <td>Input-Output</td>
+    <td>Z-Stick Gen5 https://bit.ly/30cAuwc</td>
+    <td>See Hassio</td>
+  </tr>
+  <tr>
+    <td>WiFi</td>
+    <td>Input-Output</td>
+    <td>Unify</td>
+    <td>See Hassio</td>
+  </tr>
+  <tr>
+    <td>RF</td>
+    <td>Input-Output</td>
+    <td>RFLink https://bit.ly/30o9IRP</td>
+    <td>See Hassio</td>
+  </tr>
+  <tr>
+    <td>Zigbee</td>
+    <td>Input-Output</td>
+    <td>Zigbee2MQTT: https://bit.ly/3806hmS</td>
+    <td>See Hassio</td>
+  </tr>  
+  <tr>
     <td>Roller & Venetian blinds #1</td>
     <td>Open & Close at sunset/sunrise</td>
     <td>DIY: Standard rollerbinds fitted with 12V DC motor, Wemos D1 mini, L298N.</td>
