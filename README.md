@@ -125,13 +125,16 @@
 
 <h2>Hassio install Raspberry Pi 4 SSD</h2>
 
-Follow this great guide: https://jamesachambers.com/raspberry-pi-4-usb-boot-config-guide-for-ssd-flash-drives/
-
+Follow this great guide: https://jamesachambers.com/raspberry-pi-4-usb-boot-config-guide-for-ssd-flash-drives/ <br><br>
+Install docker
+<pre><code>
+curl -sL get.docker.com|sh
+<pre><code>
 <pre><code>
 sudo apt-get install apparmor-utils apt-transport-https avahi-daemon ca-certificates curl dbus jq network-manager socat software-properties-common <br>
 curl -sL "https://raw.githubusercontent.com/home-assistant/hassio-installer/master/hassio_install.sh" >> hassio_install.sh
 sudo bash hassio_install.sh -m raspberrypi4<br>
-</code></pre>
+<pre><code>
 
 <h2> Clean up and remove old Hassio stuff</h2>
 If you have tried other ways and no longer have a clean RPI, make sure to remove all Hassio stuff first. I did the following to clean up my own mesh:
@@ -153,7 +156,7 @@ docker rmi -f $(docker images -q)<br>
 docker system prune<br>
 </code></pre>
 
-Had to a few “rinse, repeats” of the three commands above until “docker stop $(docker ps -q)” came up blank.
+Had to do a few “rinse, repeats” of the three commands above until “docker stop $(docker ps -q)” came up blank.
 <pre><code>
 sudo rm -rf /usr/share/hassio/
 </code></pre>
