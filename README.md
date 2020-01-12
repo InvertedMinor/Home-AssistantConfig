@@ -39,8 +39,8 @@
   </tr>  
   <tr>
     <td>DSMR</td>
-    <td>Energy & Water</td>
-    <td>P1 Monitor https://www.ztatz.nl</td>
+    <td>Energy & Water monitor</td>
+    <td>P1 Smart Meter Monitor https://www.ztatz.nl</td>
     <td>See Hassio</td>
   </tr>  
   <tr>
@@ -63,13 +63,13 @@
   </tr>  
   <tr>
     <td>Switches #1</td>
-    <td>Open & Close at sunset/sunrise</td>
+    <td>On & Off at sunset/sunrise</td>
     <td>Sonoff basic</td>
     <td>Wifi: Tasmota: https://bit.ly/2FFV4eP, https://bit.ly/38337hV</td>
   </tr>
   <tr>
     <td>Switches #2</td>
-    <td>Open & Close at sunset/sunrise</td>
+    <td>On & Off at sunset/sunrise</td>
     <td>Neo Coolcam</td>
     <td>Z-Wave See Hassio Automation</td>
   </tr>  
