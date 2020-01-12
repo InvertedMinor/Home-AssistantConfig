@@ -2,7 +2,7 @@
 
 <b>Builiding Blocks</b>
 
-<table style="width:960px">
+<table style="width:500px">
     <col width="50px" />
     <col width="50px" />
     <col width="200px" />
