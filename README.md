@@ -10,16 +10,16 @@
     <th>Software</th>
   </tr>
   <tr>
-    <td>Roller blinds & Venetian blinds</td>
+    <td>Roller & Venetian blinds</td>
     <td>Open & Close at sunset/sunrise</td>
-    <td>DIY: Standard rollerbinds fitted with 12V DC motor, Wemos D1 mini, L298N</td>
+    <td>DIY: Standard rollerbinds fitted with 12V DC motor, Wemos D1 mini, L298N.</td>
     <td>ESPHome, Bases: https://gist.github.com/Snipercaine/d568075d7fe9585438f2b602a3d18436</td>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
-    <td>SSS</td>
+    <td>Venetian blinds #2</td>
+    <td>Open & Close at sunset/sunrise</td>
+    <td>Geiger motor: https://www.geiger.de/fileadmin/user_upload/documents/GEIGER_E_PDB_GJ56_100W1516_EN.pdf, FIBARO System FGRM222 Roller Shutter Controller: https://manuals.fibaro.com/roller-shutter-2/</td>
+    <td>See Hassio Automation</td>
   </tr>
 </table>
 
