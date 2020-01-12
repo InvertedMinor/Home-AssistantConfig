@@ -46,9 +46,15 @@
   <tr>
     <td>Switches #3</td>
     <td>On & Off at sunset/sunrise</td>
-    <td>DIY PVTO </td>
+    <td>DIY PVTO: http://ptvo.info </td>
     <td>Zigbee: See Hassio Automation</td>
   </tr>
+  <tr>
+    <td>Switches #4</td>
+    <td>On & Off at sunset/sunrise</td>
+    <td>Ikea Tradfri Remote </td>
+    <td>Zigbee: See Hassio Automation</td>
+  </tr>  
   <tr>
     <td>Lights #1</td>
     <td>On & Off at sunset/sunrise</td>
