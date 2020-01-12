@@ -26,7 +26,7 @@
     <td>See Hassio Automation</td>
   </tr>
   <tr>
-    <td>Sunscreens</td>
+    <td>Sun Screens</td>
     <td>Manual, Close at high windspeed</td>
     <td>Somfy</td>
     <td>RFlink integration: https://matdomotique.wordpress.com/2016/04/21/domoticz-rflink-et-somfy/</td>
