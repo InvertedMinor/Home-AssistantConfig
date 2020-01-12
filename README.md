@@ -29,7 +29,7 @@
     <td>Sun Screens</td>
     <td>Manual, Close at high windspeed</td>
     <td>Somfy</td>
-    <td>RFlink integration: https://matdomotique.wordpress.com/2016/04/21/domoticz-rflink-et-somfy/</td>
+    <td>RFlink integration: https://bit.ly/3832FQL</td>
   </tr>  
   <tr>
     <td>Switches #1</td>
