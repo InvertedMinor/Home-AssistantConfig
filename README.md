@@ -2,7 +2,11 @@
 
 <b>Builiding Blocks</b>
 
-<table style="width:100%">
+<table class="fixed">
+    <col width="50px" />
+    <col width="50px" />
+    <col width="200px" />
+    <col width="200px" />
   <tr>
     <th>Device</th>
     <th>Purpose</th>
