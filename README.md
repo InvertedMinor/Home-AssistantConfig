@@ -118,8 +118,8 @@
   <tr>
     <td>Landroid</td>
     <td>Cutting Grass</td>
-    <td>WG794</td>
-    <td>https://github.com/virtualzone/landroid-bridge</td>
+    <td>WG796E.1</td>
+    <td>Firmware 5.21 https://github.com/virtualzone/landroid-bridge</td>
   </tr>   
 </table>
 
