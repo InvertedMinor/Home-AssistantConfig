@@ -82,7 +82,7 @@
   <tr>
     <td>Switches #3</td>
     <td>On & Off at sunset/sunrise</td>
-    <td>DIY PVTO: http://ptvo.info </td>
+    <td>DIY PTVO: http://ptvo.info </td>
     <td>Zigbee: See Hassio Automation</td>
   </tr>
   <tr>
