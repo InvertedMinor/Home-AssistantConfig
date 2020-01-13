@@ -170,6 +170,7 @@ Now you shoud be able to start installing Hassio as described above.<br><br>
 <h2>Custom_components in use:</h2>
 Afvalbeheer: https://github.com/pippyn/Home-Assistant-Sensor-Afvalbeheer <br>
 Sun2: https://github.com/pnbruckner/ha-sun2 <br>
+Alexa mediaplayer: https://github.com/custom-components/alexa_media_player/ <br>
 
 <h2>Zigbee DIY make your own devices</h2>
 Wall multiple switch device: https://github.com/formtapez/ZigUP <br>
