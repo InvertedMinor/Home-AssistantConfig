@@ -171,7 +171,7 @@ RPI4 SSD: https://tinyurl.com/vdj4stz <br>
 RPI4 SSD: https://tinyurl.com/rgurlp4 <br>
 Hassio on Docker: https://tinyurl.com/vnj8fa4m <br>
 RPI4 Hassio: https://tinyurl.com/ryut7ks <br>
-
+Aeotec gen 5 Z-Wave USB issue on RPI4: https://tinyurl.com/tey2a8e <br>
 
 
 
