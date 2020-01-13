@@ -185,7 +185,7 @@ Home Assistant but no Hassio: https://tinyurl.com/t3x9aed <br>
 RPI4 Hassio: https://tinyurl.com/ryut7ks <br>
 Aeotec gen 5 Z-Wave USB issue on RPI4: https://tinyurl.com/tey2a8e <br>
 Integrate Ikea Tradfri E1810 remote: https://tinyurl.com/wffemrh <br>
-Customize Hassio: https://github.com/andrey-git/home-assistant-custom-ui/blob/master/docs/features.md <br>
+Customize Hassio: https://tinyurl.com/qojtgyr <br>
 
 
 
