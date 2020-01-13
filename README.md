@@ -168,7 +168,7 @@ Now you shoud be able to start installing Hassio as described above.<br><br>
 
 <h2>Zigbee DIY make your own devices</h2>
 Wall multiple switch device: https://github.com/formtapez/ZigUP <br>
-Configurable Switch/router: http://ptvo.info/zigbee-switch-configurable-firmware-router-199/
+Configurable Switch/router: http://ptvo.info/zigbee-switch-configurable-firmware-router-199/ <br>
 Simple switch: https://github.com/dzungpv/dnckatsw00x <br>
 Wall switch: https://github.com/mattlokes/zwallremote <br>
 Guide to modify Zigbee attributes: https://databyte.ch/?p=1532 <br>
