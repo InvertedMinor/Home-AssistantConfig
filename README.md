@@ -166,13 +166,25 @@ sudo rm /etc/systemd/system/home-assistant@YOUR_USER.service
 </code></pre>
 Now you shoud be able to start installing Hassio as described above.<br><br>
 
-<h2>References</h2>
+<h2>Zigbee DIY make your own devices</h2>
+Wall multiple switch device: https://github.com/formtapez/ZigUP <br>
+Configurable Switch/router: http://ptvo.info/zigbee-switch-configurable-firmware-router-199/
+Simple switch: https://github.com/dzungpv/dnckatsw00x <br>
+Wall switch: https://github.com/mattlokes/zwallremote <br>
+Guide to modify Zigbee attributes: https://databyte.ch/?p=1532 <br>
+
+
+
+
+<h2>References that helped me:</h2>
 RPI4 SSD: https://tinyurl.com/vdj4stz <br>
 RPI4 SSD: https://tinyurl.com/rgurlp4 <br>
 Hassio on Docker: https://tinyurl.com/vnj8fa4m <br>
+Home Assistant but no Hassio: https://tinyurl.com/t3x9aed <br>
 RPI4 Hassio: https://tinyurl.com/ryut7ks <br>
 Aeotec gen 5 Z-Wave USB issue on RPI4: https://tinyurl.com/tey2a8e <br>
 Integrate Ikea Tradfri E1810 remote: https://tinyurl.com/wffemrh <br>
+Customize Hassio: https://github.com/andrey-git/home-assistant-custom-ui/blob/master/docs/features.md <br>
 
 
 
