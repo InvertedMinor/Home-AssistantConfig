@@ -172,6 +172,7 @@ Configurable Switch/router: http://ptvo.info/zigbee-switch-configurable-firmware
 Simple switch: https://github.com/dzungpv/dnckatsw00x <br>
 Wall switch: https://github.com/mattlokes/zwallremote <br>
 Guide to modify Zigbee attributes: https://databyte.ch/?p=1532 <br>
+Building a ZigBee 3.0 Switch and Light: https://tinyurl.com/t6y963o<br>
 
 
 
