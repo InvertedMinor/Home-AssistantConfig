@@ -166,6 +166,10 @@ sudo rm /etc/systemd/system/home-assistant@YOUR_USER.service
 </code></pre>
 Now you shoud be able to start installing Hassio as described above.<br><br>
 
+<h2>Custom_components in use:</h2>
+Afvalbeheer: https://github.com/pippyn/Home-Assistant-Sensor-Afvalbeheer <br>
+Sun2: https://github.com/pnbruckner/ha-sun2 <br>
+
 <h2>Zigbee DIY make your own devices</h2>
 Wall multiple switch device: https://github.com/formtapez/ZigUP <br>
 Configurable Switch/router: http://ptvo.info/zigbee-switch-configurable-firmware-router-199/ <br>
@@ -173,9 +177,6 @@ Simple switch: https://github.com/dzungpv/dnckatsw00x <br>
 Wall switch: https://github.com/mattlokes/zwallremote <br>
 Guide to modify Zigbee attributes: https://databyte.ch/?p=1532 <br>
 Building a ZigBee 3.0 Switch and Light: https://tinyurl.com/t6y963o<br>
-
-
-
 
 <h2>References that helped me:</h2>
 RPI4 SSD: https://tinyurl.com/vdj4stz <br>
