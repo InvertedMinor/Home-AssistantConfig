@@ -118,14 +118,14 @@
   <tr>
     <td>Landroid</td>
     <td>Cutting Grass</td>
-    <td>WG796E.1</td>
-    <td>Firmware 5.21 https://github.com/virtualzone/landroid-bridge</td>
+    <td>WG796E.1 https://tinyurl.com/vp4hb9d</td>
+    <td>Firmware 5.21 https://tinyurl.com/sxp9emc</td>
   </tr>   
 </table>
 
 <h2>Hassio install Raspberry Pi 4 SSD</h2>
 
-Follow this great guide: https://jamesachambers.com/raspberry-pi-4-usb-boot-config-guide-for-ssd-flash-drives/ <br><br>
+Follow this great guide: https://tinyurl.com/rgurlp4 <br><br>
 Install docker
 <pre><code>
 curl -sL get.docker.com|sh
