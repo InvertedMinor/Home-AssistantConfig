@@ -164,7 +164,14 @@ sudo rm -rf /usr/share/hassio/
 <pre><code>
 sudo rm /etc/systemd/system/home-assistant@YOUR_USER.service
 </code></pre>
-Now you shoud be able to start installing Hassio as described above.
+Now you shoud be able to start installing Hassio as described above.<br><br>
+
+<h2>References</h2>
+RPI4 SSD: https://tinyurl.com/vdj4stz
+RPI4 SSD: https://tinyurl.com/rgurlp4
+Hassio on Docker: https://tinyurl.com/vnj8fa4
+RPI4 Hassio: https://tinyurl.com/ryut7ks
+
 
 
 
