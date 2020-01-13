@@ -119,7 +119,8 @@
     <td>Landroid</td>
     <td>Cutting Grass</td>
     <td>WG796E.1 https://tinyurl.com/vp4hb9d</td>
-    <td>Firmware 5.21 https://tinyurl.com/sxp9emc</td>
+    <td>Firmware 5.21 https://tinyurl.com/sxp9emc
+      Hassio: https://tinyurl.com/wbfl8nx</td>
   </tr>   
 </table>
 
