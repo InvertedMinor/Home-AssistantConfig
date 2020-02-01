@@ -174,13 +174,52 @@ sudo rm /etc/systemd/system/home-assistant@YOUR_USER.service
 Now you shoud be able to start installing Hassio as described above.<br><br>
 
 <h2>Custom_components in use:</h2>
-HACS: https://hacs.xyz/ <br>
-Afvalbeheer: https://github.com/pippyn/Home-Assistant-Sensor-Afvalbeheer <br>
-Sun2: https://github.com/pnbruckner/ha-sun2 <br>
-Alexa mediaplayer: https://github.com/custom-components/alexa_media_player/ <br>
-ControllerX: https://github.com/xaviml/controllerx <br>
-Samsung TV: https://github.com/roberodin/ha-samsungtv-custom <br>
-Alexa talking clock: https://github.com/UbhiTS/ad-alexatalkingclock <br>
+
+<table style="width:500px">
+    <col width="50px" />
+    <col width="50px" />
+    <col width="200px" />
+  <tr>
+    <th>Name</th>
+    <th>Purpose</th>
+    <th>URL</th>
+  </tr>
+  <tr>
+    <td>HACS</td>
+    <td>Custom components mngt</td>
+    <td>https://hacs.xyz/</td>
+  </tr>
+  <tr>
+    <td>Afvalbeheer</td>
+    <td>Garbage collection agenda</td>
+    <td>https://github.com/pippyn/Home-Assistant-Sensor-Afvalbeheer</td>
+  </tr>
+  <tr>
+    <td>Sun2</td>
+    <td>Show Sun time & elevation</td>
+    <td>https://github.com/pnbruckner/ha-sun2</td>
+  </tr>  
+  <tr>
+    <td>ControllerX</td>
+    <td>Make full use of Ikea switches</td>
+    <td>https://github.com/xaviml/controllerx </td>
+  </tr> 
+  <tr>
+    <td>Samsung TV</td>
+    <td>Take control Samsung Qled</td>
+    <td>https://github.com/roberodin/ha-samsungtv-custom </td>
+  </tr>  
+  <tr>
+    <td>Alexa Echo</td>
+    <td>Use Alex as mediaplayer</td>
+    <td>https://github.com/custom-components/alexa_media_player/</td>
+  </tr>  
+  <tr>
+    <td>Alexa talking clock</td>
+    <td>ULet Alexa anoounce time</td>
+    <td>https://github.com/UbhiTS/ad-alexatalkingclock</td>
+  </tr>   
+
 
 <h2>Zigbee DIY make your own devices</h2>
 Wall multiple switch device: https://github.com/formtapez/ZigUP <br>
