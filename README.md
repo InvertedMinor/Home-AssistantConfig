@@ -168,13 +168,13 @@ sudo rm /etc/systemd/system/home-assistant@YOUR_USER.service
 Now you shoud be able to start installing Hassio as described above.<br><br>
 
 <h2>Custom_components in use:</h2>
-HACS: https://hacs.xyz/
+HACS: https://hacs.xyz/ <br>
 Afvalbeheer: https://github.com/pippyn/Home-Assistant-Sensor-Afvalbeheer <br>
 Sun2: https://github.com/pnbruckner/ha-sun2 <br>
 Alexa mediaplayer: https://github.com/custom-components/alexa_media_player/ <br>
-ControllerX: https://github.com/xaviml/controllerx
-Samsung TV: https://github.com/roberodin/ha-samsungtv-custom
-Alexa talking clock: https://github.com/UbhiTS/ad-alexatalkingclock
+ControllerX: https://github.com/xaviml/controllerx <br>
+Samsung TV: https://github.com/roberodin/ha-samsungtv-custom <br>
+Alexa talking clock: https://github.com/UbhiTS/ad-alexatalkingclock <br>
 
 <h2>Zigbee DIY make your own devices</h2>
 Wall multiple switch device: https://github.com/formtapez/ZigUP <br>
