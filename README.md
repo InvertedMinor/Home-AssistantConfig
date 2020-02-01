@@ -50,6 +50,12 @@
     <td>See Hassio</td>
   </tr>  
   <tr>
+    <td>Mold</td>
+    <td>Measure & monitor mold</td>
+    <td>Mold sensor  https://tinyurl.com/whbuk2u </td>
+    <td>See Hassio</td>
+  </tr>    
+  <tr>
     <td>Roller & Venetian blinds #1</td>
     <td>Open & Close at sunset/sunrise</td>
     <td>DIY: Standard rollerbinds fitted with 12V DC motor, Wemos D1 mini, L298N.</td>
