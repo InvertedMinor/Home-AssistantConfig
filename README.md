@@ -216,10 +216,10 @@ Now you shoud be able to start installing Hassio as described above.<br><br>
   </tr>  
   <tr>
     <td>Alexa talking clock</td>
-    <td>ULet Alexa anoounce time</td>
+    <td>Let Alexa anoounce time</td>
     <td>https://github.com/UbhiTS/ad-alexatalkingclock</td>
   </tr>   
-
+</table>
 
 <h2>Zigbee DIY make your own devices</h2>
 Wall multiple switch device: https://github.com/formtapez/ZigUP <br>
